@@ -1,3 +1,11 @@
 .App {
   text-align: center;
 }
+
+.imgPlanet {
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+  height: 150px;
+  width: 140px;
+}
